@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\bin\Debug\net6.0\HotelManagement.exe
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\bin\Debug\net6.0\HotelManagement.deps.json
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\bin\Debug\net6.0\HotelManagement.runtimeconfig.json
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\bin\Debug\net6.0\HotelManagement.dll
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\bin\Debug\net6.0\HotelManagement.pdb
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\obj\Debug\net6.0\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\obj\Debug\net6.0\HotelManagement.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\obj\Debug\net6.0\HotelManagement.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\obj\Debug\net6.0\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\obj\Debug\net6.0\HotelManagement.dll
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\obj\Debug\net6.0\refint\HotelManagement.dll
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\obj\Debug\net6.0\HotelManagement.pdb
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\obj\Debug\net6.0\HotelManagement.genruntimeconfig.cache
+C:\Users\Asus\source\repos\HotelManagement\HotelManagement\obj\Debug\net6.0\ref\HotelManagement.dll
