@@ -9,6 +9,7 @@ namespace HotelManagement
         //1. Quan ly khach hang
         //2. Quan ly dc KS
         //3. Quan ly dc booking
+        //4. Hello
         static void Main(string[] args)
         {
             int choose;
